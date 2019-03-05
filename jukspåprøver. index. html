@@ -1,0 +1,108 @@
+!DOCTYPE html>
+
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Litt av hvert</title>
+    
+<style>
+    body{
+        background-color: white;
+        margin: 0px;
+    }
+    
+    h1{
+       color:#FF383F;
+       text-align: center;
+       font-size:50px;
+    }
+    
+        
+    h2{
+      color:#FF383F;
+       text-align: left;
+       font-size:20px;
+    }
+     
+    h5{
+       color:#FF7800;
+       text-align: left;
+       font-size:14px;
+    }
+    .topnav {
+         overflow: hidden;
+         background-color:#FF7800;
+    }
+    
+    .header{
+        background-color:black;
+        height:100px;
+        text-align: center;
+        padding: 20px;
+    }
+    
+    .content{
+        background-color:grey;
+        height:300px;
+        padding:10px;
+    }
+    .footer{
+        background-color: black;
+        height:100px;
+        padding: 10px;
+        text-align:center;
+    }
+   
+    a:link{ange
+      text-decoration:none;
+      float:left;
+      color:red;
+      display:block;
+      font-size:17px;
+      text-align: center;
+      padding: 12px 16px;
+    }
+    
+    a:hover{
+        color:white;
+    }
+    
+    a.active{
+        color:red
+        ;
+        background-color:white
+        ;
+    }
+   
+</style>
+</head>
+
+<body>
+    
+    <div class="header">
+    <h1>Litt av hvert</h1>
+    </div>
+    
+    <div class="topnav">
+    <a class="active" href="index.html"> hjem</a> 
+    <a href="http://www.friv.com/"> spill </a>
+    <a href="https://www.youtube.com/"> youtube </a> 
+    <a href="https://www.ebay.com/?ef_id=EAIaIQobChMI99SF-LPZ4AIVQamaCh3biQy5EAAYASAAEgL_t_D_BwE:G:s">ebay</a>
+    <a href="https://translate.google.no/?hl=no"> translate</a>
+    <a href="#link">juks til prøver</a>
+    </div>
+    
+    <div class="content"> 
+    <h2>jukse på prøver?</h2></h2>
+    
+ for de som ønsker å jukse på prøver er denne nettsiden ikke et bra  valg :(
+    </div>
+    
+    <div class="footer">
+   <h5>takk for besøket</h5>
+    </div>
+
+
+
+</body>
+</html>
